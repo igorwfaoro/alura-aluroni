@@ -10,3 +10,5 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
+
+// https://github.com/alura-cursos/aluroni-introducao/blob/Aula3/src/pages/Cardapio/Cardapio.module.scss
