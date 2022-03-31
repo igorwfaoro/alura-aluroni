@@ -11,4 +11,4 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// https://github.com/alura-cursos/aluroni-introducao/blob/Aula3/src/pages/Cardapio/Cardapio.module.scss
+// https://github.com/alura-cursos/aluroni-introducao
